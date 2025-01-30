@@ -1,6 +1,14 @@
 # Paychain 🔗💰
 
-Sending real money with Langchain Agents.
+Build AI agents that can send real money using natural language with LangChain and Payman. Paychain combines the power of LLMs with Payman's secure payment infrastructure to enable conversational financial transactions.
+
+## Why Paychain?
+
+- 🤖 **Natural Language Payments**: Let AI agents process payments through simple conversations
+- 🔒 **Built on Payman**: Leverage Payman's enterprise-grade payment infrastructure
+- 🚀 **Quick Integration**: Get started in minutes with our Python SDK
+- 💡 **Flexible Tools**: Rich set of Payman payment operations including sending, requesting, and managing payees
+- 🛠️ **Built with LangChain**: Leverage the power of the LangChain ecosystem
 
 ## Quick Start 🚀
 
