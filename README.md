@@ -1,6 +1,6 @@
 # Paychain 🔗💰
 
-A sample project to demonstrate how to use the Payman AI payment tools integrated with LangChain.
+Sending real money with Langchain Agents.
 
 ## Quick Start 🚀
 
